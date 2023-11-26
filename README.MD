@@ -18,15 +18,15 @@ public static void main(String[] args) {
         cajera1.procesarCompra(cliente1, timeStamp);
         cajera2.procesarCompra(cliente2, timeStamp);
         //System.out.println(cajera1.getTotal());
-    ```
+```
 # Resultado final imagen
+![Alt text](src/main/java/com/mycompany/cobro_supermercado/assets/Screen.png)
 
-src/main/java/com/mycompany/cobro_supermercado/assets/Screen.png
 
 # Pasos para ejecutar el proyecto.
 - Descargue o clone este repositorio a su máquina local.
 
-```
+
 ```sh
 [Main](https://github.com/oalvarez1990/Supermarket_Thread.git)
 ```
@@ -35,3 +35,5 @@ src/main/java/com/mycompany/cobro_supermercado/assets/Screen.png
 - Java: 17.0.9; OpenJDK 64-Bit Server VM 17.0.9+8-LTS
 - Runtime: OpenJDK Runtime Environment 17.0.9+8-LTS
 - System: Linux version 6.2.0-37-generic running on amd64; UTF-8; es_CO (nb)
+- Source Encoding: ISO-8859-1; UTF-8
+
