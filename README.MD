@@ -7,8 +7,8 @@ Este proyecto se trata de una simulación de cobro en un supermercado, donde el 
 ### Clase Main
 La clase `Main` es la principal del proyecto, donde se encuentran las funciones que permiten realizar el cobro y mostrar el tiempo que se gasta la cajera en realizar un proceso tras otro.
 
-`
-    public static void main(String[] args) {
+
+`    public static void main(String[] args) {
         System.out.println("Bienvenido Supermercado el lider");
         Cliente cliente1 = new Cliente("Facundo Cabrales", 1, new int[]{2, 2, 1, 5, 2, 3});
         Cliente cliente2 = new Cliente("Caperucita Rojas", 2, new int[]{1, 3, 5, 1, 1});
@@ -18,6 +18,4 @@ La clase `Main` es la principal del proyecto, donde se encuentran las funciones 
         cajera1.procesarCompra(cliente1, timeStamp);
         cajera2.procesarCompra(cliente2, timeStamp);
         //System.out.println(cajera1.getTotal());
-
-    }    
-    `
+    } `
