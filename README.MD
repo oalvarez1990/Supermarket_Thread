@@ -19,3 +19,7 @@ La clase `Main` es la principal del proyecto, donde se encuentran las funciones 
         cajera2.procesarCompra(cliente2, timeStamp);
         //System.out.println(cajera1.getTotal());
     } `
+
+# Resultado final imagen
+
+![Alt text](src/main/java/com/mycompany/cobro_supermercado/assets/Screen.png)
